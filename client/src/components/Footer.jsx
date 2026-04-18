@@ -14,9 +14,9 @@ const Footer = () => {
                     </p>
                     <div className='flex items-center gap-3 mt-6'>
                       <a href="#"> <img src={assets.facebook_logo} className='w-5 h-5' alt="" /></a>  
-                      <a href="#"> <img src={assets.instagram_logo_logo} className='w-5 h-5' alt="" /></a>
-                       <a href="#"> <img src={assets.twitter_logo_logo} className='w-5 h-5' alt="" /></a>
-                        <a href="#"> <img src={assets.gmail_logo_logo} className='w-5 h-5' alt="" /></a>
+                      <a href="#"> <img src={assets.instagram_logo} className='w-5 h-5' alt="" /></a>
+                       <a href="#"> <img src={assets.twitter_logo} className='w-5 h-5' alt="" /></a>
+                        <a href="#"> <img src={assets.gmail_logo} className='w-5 h-5' alt="" /></a>
                     </div>
                 </div>
 
