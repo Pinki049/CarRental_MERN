@@ -172,12 +172,12 @@ const onSubmitHandler = async (e)=>{
             </select>
           </div>
 
-          {/* car discription */}
+          {/* car description */}
           <div className='flex flex-col w-full'>
-            <label>Discription</label>
+            <label>Description</label>
             <textarea rows={5} placeholder="e.g. A luxurious SUV with a spacious interior and a powerful engine." required
             className='px-3 py-2 mt-1 border border-borderColor rounded-md outline-none'
-            value={car.discription} onChange={e=> setCar({...car, discription: e.target.value})}></textarea>
+            value={car.description} onChange={e=> setCar({...car, description: e.target.value})}></textarea>
           </div>
 
           <button className='flex items-center gap-2 px-4 py-2.5 mt-4 bg-primary

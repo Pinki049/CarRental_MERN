@@ -8,6 +8,8 @@ const CarCard = ({car}) => {
       const currency = import.meta.env.VITE_CURRENCY
       const navigate = useNavigate()
 
+      console.log(car)
+
   return (
     <div onClick={()=>{navigate(`/car-details/${car._id}`); scrollTo(0,0)}} className='group rounded-x1 overflow-hidden shadow-lg hower:-translate-y-1
     transition-all duration-500 cursor-pointer'>
