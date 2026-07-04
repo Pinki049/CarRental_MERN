@@ -175,9 +175,8 @@ CLERK_SECRET_KEY=YOUR_CLERK_SECRET_KEY
 
 **Pinki**
 
-GitHub: https://github.com/YOUR_GITHUB_USERNAME
+GitHub: https://github.com/Pinki049
 
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
 
 ---
 
